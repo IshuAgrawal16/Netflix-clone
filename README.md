@@ -90,11 +90,9 @@ For more information, please refer to the [API Documentation](https://example.co
 
 👤 Author
 --------
-The Netflix Clone project was created by [Your Name](https://example.com).
+The Netflix Clone project was created by [Ishu Agrawal](https://example.com).
 
-📝 License
-----------
-The Netflix Clone project is licensed under the [MIT License](https://opensource.org/licenses/MIT).This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
