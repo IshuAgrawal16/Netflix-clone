@@ -72,8 +72,10 @@ To test the project, follow these steps:
 --------------
 The following screenshots demonstrate the project's features:
 
-* **Sign-in Page**: [![Sign-in Page](https://via.placeholder.com/400x300)](https://via.placeholder.com/400x300)
-* **Video Upload Page**: [![Video Upload Page](https://via.placeholder.com/400x300)](https://via.placeholder.com/400x300)
+* **Sign-in Page**: <img width="1920" height="1080" alt="Screenshot 2025-09-07 205355" src="https://github.com/user-attachments/assets/794db185-b21f-43a7-943d-7d9220f7a8bb" />
+
+* **Video Upload Page**: <img width="1920" height="1080" alt="Screenshot 2025-09-07 205433" src="https://github.com/user-attachments/assets/de03e3ef-8d6a-4489-8ab8-35f49e49d323" />
+
 
 📦 API Reference
 ----------------
