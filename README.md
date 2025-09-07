@@ -72,9 +72,11 @@ To test the project, follow these steps:
 --------------
 The following screenshots demonstrate the project's features:
 
-* **Sign-in Page**: <img width="1920" height="1080" alt="Screenshot 2025-09-07 205355" src="https://github.com/user-attachments/assets/794db185-b21f-43a7-943d-7d9220f7a8bb" />
+* **Sign-in Page**: <img width="1920" height="920" alt="Screenshot 2025-09-07 205355" src="https://github.com/user-attachments/assets/c484fcdc-81ec-4bdf-be16-a7076d59d991" />
 
-* **Video Upload Page**: <img width="1920" height="1080" alt="Screenshot 2025-09-07 205433" src="https://github.com/user-attachments/assets/de03e3ef-8d6a-4489-8ab8-35f49e49d323" />
+
+* **Video Upload Page**: <img width="1920" height="916" alt="Screenshot 2025-09-07 205433" src="https://github.com/user-attachments/assets/deec160c-605c-4965-8a6e-4d33de107a7b" />
+
 
 
 📦 API Reference
